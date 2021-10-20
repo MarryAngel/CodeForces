@@ -1,9 +1,8 @@
 //============================================================================
-// Name        : 598A-TrickySum.cpp
-// Author      : Maria Angelica
-// Link        : https://codeforces.com/contest/598/problem/A
-// Copyright   : Codeforces - 598A - Trick Sum
-// Description : Math
+// Nome        : 598A-TrickySum.cpp
+// Autor       : Maria Angelica
+// Origem      : Codeforces - 598A - Trick Sum (https://codeforces.com/contest/598/problem/A)
+// Descrição   : Matematica (PA e PG)
 //============================================================================
 #include<bits/stdc++.h>
 
